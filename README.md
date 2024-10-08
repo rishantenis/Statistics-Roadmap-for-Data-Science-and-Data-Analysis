@@ -34,6 +34,5 @@
   <a href="https://www.hackerrank.com/profile/rishantenis"><img src="https://img.shields.io/badge/Hackerrank-rishantenis-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
-
 # Statistics-Roadmap-for-Data-Science-and-Data-Analysis
 Statistics is the field of study that involves collecting, organizing, analyzing, interpreting, and presenting data. It plays a crucial role in various disciplines, from science and business to social sciences and healthcare.
